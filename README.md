@@ -24,4 +24,4 @@ and repos were cloned from the following links
 * https://github.com/ros-perception/slam_gmapping
 * https://github.com/turtlebot/turtlebot
 * https://github.com/turtlebot/turtlebot_interactions
-* clone https://github.com/turtlebot/turtlebot_simulato
+* https://github.com/turtlebot/turtlebot_simulato
