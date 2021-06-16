@@ -15,8 +15,8 @@ This project contains files to launch a turtlebot in a virtual environment in Ga
 * run cd .. 
 * run catkin_make
 * cd to src/scripts
-* run ./home_service.sh  `to simulate pick and place robot action`
-* run ./test_slam.sh `to generate a map`
+* run ./home_service.sh  ` to simulate pick and place robot action `
+* run ./test_slam.sh ` to generate a map `
 
 ## Acknowledgement
 This project was developed from starter codes provided as part of *Udacity's Robotic Software Engineer Nano Degree Program*
