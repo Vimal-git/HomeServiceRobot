@@ -19,9 +19,9 @@ This project contains files to launch a turtlebot in a virtual environment in Ga
 * run ./test_slam.sh ` to generate a map `
 
 ## Acknowledgement
-This project was developed from starter codes provided as part of *Udacity's Robotic Software Engineer Nano Degree Program*
+This project was developed from starter codes provided as part of *Udacity's Robotics Software Engineer Nano Degree Program*
 and repos were cloned from the following links
 * https://github.com/ros-perception/slam_gmapping
 * https://github.com/turtlebot/turtlebot
 * https://github.com/turtlebot/turtlebot_interactions
-* https://github.com/turtlebot/turtlebot_simulato
+* https://github.com/turtlebot/turtlebot_simulator
