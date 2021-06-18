@@ -1,4 +1,4 @@
-# ROS-HomeServiceRobot
+# ROS-Pick and Place Robot
 This project contains files to launch a turtlebot in a virtual environment in Gazebo and Rviz.
 * The launched turtlebot simulates a pick and place operation in the virtual environment.
 * The turtlebot can be moved around by keyboard keys to generate a map of the virtual environment.
